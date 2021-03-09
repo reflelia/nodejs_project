@@ -17,11 +17,11 @@
 11. sanitize-html
 
 -기능
-passport와 mysql을 이용한 로그인, 회원가입
-글 작성, 삭제, 수정
-multer을 이용한 사진 업로드
+1. passport와 mysql을 이용한 로그인, 회원가입
+2. 글 작성, 삭제, 수정
+3. multer을 이용한 사진 업로드
 
 -todo
-mysql->mongodb로 전환
-div contenteditable을 이용한 글작성 칸에 사진 삽입
-ajax이용하여 리로드 없이 글이나 사진 삭제 처리
+1. mysql->mongodb로 전환
+2. div contenteditable을 이용한 글작성 칸에 사진 삽입
+3. ajax이용하여 리로드 없이 글이나 사진 삭제 처리
